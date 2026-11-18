@@ -1,8 +1,8 @@
 {
-  "version": "3.3.18",
+  "version": "3.4.0",
   "codename": "Mistral",
   "released": "2026-11-18",
-  "installerUrl": "https://raw.githubusercontent.com/akshsim1991/PneuSim-releases/main/releases/PneuSim-Setup-3.3.18.exe",
-  "sha256": "1acb294e454a5dee2fa509a8cffadc6d93cbd84c00ee5d42f50007ac431be7fd",
-  "notes": "Routing keeps lines off components and each other, group rotation fixed, counterbalance example, ribbon search fixed"
+  "installerUrl": "https://raw.githubusercontent.com/akshsim1991/PneuSim-releases/main/releases/PneuSim-Setup-3.4.0.exe",
+  "sha256": "eaba6e838b3ec8355d344580ce89010a8a4ea1a24bd0c1038d209ffb7a53d22f",
+  "notes": "Version 3.4: audit and bug fixes, update check at every start, automatic updates option in Settings"
 }
