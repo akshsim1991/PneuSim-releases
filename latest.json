@@ -1,8 +1,8 @@
 {
-  "version": "3.3.12",
+  "version": "3.3.13",
   "codename": "Mistral",
   "released": "2026-11-18",
-  "installerUrl": "https://raw.githubusercontent.com/akshsim1991/PneuSim-releases/main/releases/PneuSim-Setup-3.3.12.exe",
-  "sha256": "58f636730d3b87d066c1ad37034ce2bd5f3448a274e19418cdcc86637175ac6a",
-  "notes": "Manifold block, pneumatic counterbalance valve, ribbon fits the window, dark tab strip, start screen hides old panels, bottom panel toggle and replay slider"
+  "installerUrl": "https://raw.githubusercontent.com/akshsim1991/PneuSim-releases/main/releases/PneuSim-Setup-3.3.13.exe",
+  "sha256": "b8955e85797f60d95de1fbb3fea0f01055342f5a5b98ff69f681554ee2673060",
+  "notes": "Connections route themselves around components, dark scroll bars, File view closes when another ribbon tab is used"
 }
