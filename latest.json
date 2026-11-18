@@ -1,8 +1,8 @@
 {
-  "version": "3.4.0",
+  "version": "3.4.1",
   "codename": "Mistral",
   "released": "2026-11-18",
-  "installerUrl": "https://raw.githubusercontent.com/akshsim1991/PneuSim-releases/main/releases/PneuSim-Setup-3.4.0.exe",
-  "sha256": "eaba6e838b3ec8355d344580ce89010a8a4ea1a24bd0c1038d209ffb7a53d22f",
-  "notes": "Version 3.4: audit and bug fixes, update check at every start, automatic updates option in Settings"
+  "installerUrl": "https://raw.githubusercontent.com/akshsim1991/PneuSim-releases/main/releases/PneuSim-Setup-3.4.1.exe",
+  "sha256": "e4a2b23463ac6e7cd7ab5a3f20b9abcab91d1bae38e014347b49768e22448ba5",
+  "notes": "Audit release: updated Quick Guide PDF, README and installer readme, no new features"
 }
