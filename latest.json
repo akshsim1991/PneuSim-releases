@@ -1,8 +1,8 @@
 {
-  "version": "3.3.7",
+  "version": "3.3.8",
   "codename": "Mistral",
   "released": "2026-11-18",
-  "installerUrl": "https://raw.githubusercontent.com/akshsim1991/PneuSim-releases/main/releases/PneuSim-Setup-3.3.7.exe",
-  "sha256": "b3a8e17221d6a891cf8d3fdeb17543af39514ac53adfab54d578fb86fec57b33",
-  "notes": "Complete my circuit is smarter: one valve can drive several cylinders, shuttle (OR) and two-pressure (AND) valves get connected, air preparation, gauges, silencers, flow controls and hydraulic circuits are completed. Plus solenoid automatic/manual setting and everything from 3.3.4 to 3.3.6."
+  "installerUrl": "https://raw.githubusercontent.com/akshsim1991/PneuSim-releases/main/releases/PneuSim-Setup-3.3.8.exe",
+  "sha256": "46054caac36fe5df68cb7891ad17c1c03483c54bf8060a11933a64170cb536fc",
+  "notes": "Multiple circuits in file tabs, pages as bottom tabs, Close and Close all, pan (hand tool, middle mouse, Space) and touchpad sideways scrolling."
 }
