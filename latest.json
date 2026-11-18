@@ -1,8 +1,8 @@
 {
-  "version": "3.3.5",
+  "version": "3.3.6",
   "codename": "Mistral",
   "released": "2026-11-18",
-  "installerUrl": "https://raw.githubusercontent.com/akshsim1991/PneuSim-releases/main/releases/PneuSim-Setup-3.3.5.exe",
-  "sha256": "3e6e2ee6284a7ad21c1eaa5951749eab8fe26af2af737f1109a5d0a37b028a66",
-  "notes": "New: Circuit Generator can complete your circuit from the components already in the workspace (adds missing valves, supply and wiring). Plus everything in 3.3.4: tabbed Settings with OK/Cancel, AMOLED theme, automatic operation, Fit fills the workspace, new About box."
+  "installerUrl": "https://raw.githubusercontent.com/akshsim1991/PneuSim-releases/main/releases/PneuSim-Setup-3.3.6.exe",
+  "sha256": "9637ab09406fd6acacb94f793f039ffc3bf86378bfcf99b9e6f908f51faa7651",
+  "notes": "New setting: solenoid valves can be operated automatically (PneuSim works the override and brings double-solenoid valves back) or manually. Includes everything from 3.3.5 and 3.3.4."
 }
