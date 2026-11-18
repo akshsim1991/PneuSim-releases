@@ -1,8 +1,8 @@
 {
-  "version": "3.3.16",
+  "version": "3.3.18",
   "codename": "Mistral",
   "released": "2026-11-18",
-  "installerUrl": "https://raw.githubusercontent.com/akshsim1991/PneuSim-releases/main/releases/PneuSim-Setup-3.3.16.exe",
-  "sha256": "80f7471e91d94cdf9995c98ec87df2165da3909a8168ad00b8c44111ca45454a",
-  "notes": "Lines routed together so they stay off each other and off components, rigid group rotation, components never overlap"
+  "installerUrl": "https://raw.githubusercontent.com/akshsim1991/PneuSim-releases/main/releases/PneuSim-Setup-3.3.18.exe",
+  "sha256": "1acb294e454a5dee2fa509a8cffadc6d93cbd84c00ee5d42f50007ac431be7fd",
+  "notes": "Routing keeps lines off components and each other, group rotation fixed, counterbalance example, ribbon search fixed"
 }
