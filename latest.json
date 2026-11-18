@@ -1,8 +1,8 @@
 {
-  "version": "3.3.2",
+  "version": "3.3.4",
   "codename": "Mistral",
   "released": "2026-11-18",
-  "installerUrl": "https://raw.githubusercontent.com/akshsim1991/PneuSim-releases/main/releases/PneuSim-Setup-3.3.2.exe",
-  "sha256": "162c87fc132d1dcfba402c7a1449cdf2184646166c3d9818bee4ff30bd78455a",
-  "notes": "Fixes: ribbon More menu crash, Settings dialog cut off, Fit, undo/redo icons, shortcuts.\nNew: live values on hover, live value labels, tandem / double-end / telescopic cylinders, DC motor, servo motor, electric cylinder, whole-workspace cutaway, generator can build around the cylinders in the workspace, PDF user guide (F1)."
+  "installerUrl": "https://raw.githubusercontent.com/akshsim1991/PneuSim-releases/main/releases/PneuSim-Setup-3.3.4.exe",
+  "sha256": "1e7e0de78d7988781990b180408625d765e1026798df0fdf52f73bec59f80433",
+  "notes": "Settings window rebuilt (tabs, OK/Cancel, AMOLED theme, automatic operation), Fit fills the workspace, new About box, whole-workspace cutaway with valve interiors."
 }
