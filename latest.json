@@ -1,8 +1,8 @@
 {
-  "version": "3.3.9",
+  "version": "3.3.12",
   "codename": "Mistral",
   "released": "2026-11-18",
-  "installerUrl": "https://raw.githubusercontent.com/akshsim1991/PneuSim-releases/main/releases/PneuSim-Setup-3.3.9.exe",
-  "sha256": "3fd20a50be4a8d799e572e3b50a41358d288c2dd3ff446cc8c48083f84706125",
-  "notes": "Full ribbon and File view, sheet-style page tabs, automatic line re-routing, overlap warnings in Check circuit, pressure units follow Settings, port names setting, PDF print preview"
+  "installerUrl": "https://raw.githubusercontent.com/akshsim1991/PneuSim-releases/main/releases/PneuSim-Setup-3.3.12.exe",
+  "sha256": "58f636730d3b87d066c1ad37034ce2bd5f3448a274e19418cdcc86637175ac6a",
+  "notes": "Manifold block, pneumatic counterbalance valve, ribbon fits the window, dark tab strip, start screen hides old panels, bottom panel toggle and replay slider"
 }
