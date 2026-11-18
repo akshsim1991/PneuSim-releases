@@ -1,8 +1,8 @@
 {
-  "version": "3.3.6",
+  "version": "3.3.7",
   "codename": "Mistral",
   "released": "2026-11-18",
-  "installerUrl": "https://raw.githubusercontent.com/akshsim1991/PneuSim-releases/main/releases/PneuSim-Setup-3.3.6.exe",
-  "sha256": "9637ab09406fd6acacb94f793f039ffc3bf86378bfcf99b9e6f908f51faa7651",
-  "notes": "New setting: solenoid valves can be operated automatically (PneuSim works the override and brings double-solenoid valves back) or manually. Includes everything from 3.3.5 and 3.3.4."
+  "installerUrl": "https://raw.githubusercontent.com/akshsim1991/PneuSim-releases/main/releases/PneuSim-Setup-3.3.7.exe",
+  "sha256": "b3a8e17221d6a891cf8d3fdeb17543af39514ac53adfab54d578fb86fec57b33",
+  "notes": "Complete my circuit is smarter: one valve can drive several cylinders, shuttle (OR) and two-pressure (AND) valves get connected, air preparation, gauges, silencers, flow controls and hydraulic circuits are completed. Plus solenoid automatic/manual setting and everything from 3.3.4 to 3.3.6."
 }
