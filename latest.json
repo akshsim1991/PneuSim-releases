@@ -1,0 +1,8 @@
+{
+  "version": "3.3.0",
+  "codename": "Mistral",
+  "released": "2026-11-18",
+  "installerUrl": "https://raw.githubusercontent.com/akshsim1991/PneuSim-releases/main/releases/PneuSim-Setup-3.3.0.exe",
+  "sha256": "b74e8ef1ea085fcb25a5a47d6c244fe73f86331157d4bf484f0b2239d4501358",
+  "notes": "First release of PneuSim 3.3 Mistral."
+}
