@@ -1,8 +1,8 @@
 {
-  "version": "3.3.14",
+  "version": "3.3.15",
   "codename": "Mistral",
   "released": "2026-11-18",
-  "installerUrl": "https://raw.githubusercontent.com/akshsim1991/PneuSim-releases/main/releases/PneuSim-Setup-3.3.14.exe",
-  "sha256": "56f3e74dd11636b3ce08e32bf40e00ce89f2e4b681c2e9a529586a540093bd2a",
-  "notes": "Rotating a selection turns the whole group as one piece; connections route around components; dark scroll bars"
+  "installerUrl": "https://raw.githubusercontent.com/akshsim1991/PneuSim-releases/main/releases/PneuSim-Setup-3.3.15.exe",
+  "sha256": "46b20144ab47c9605fff1f1a9c2640485c7d450ce1fe24d76e687abcb68e9f83",
+  "notes": "Crossing lines hop over each other like in electrical drawings, router keeps lines off each other"
 }
