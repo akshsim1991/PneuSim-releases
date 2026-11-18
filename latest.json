@@ -1,8 +1,8 @@
 {
-  "version": "3.3.15",
+  "version": "3.3.16",
   "codename": "Mistral",
   "released": "2026-11-18",
-  "installerUrl": "https://raw.githubusercontent.com/akshsim1991/PneuSim-releases/main/releases/PneuSim-Setup-3.3.15.exe",
-  "sha256": "46b20144ab47c9605fff1f1a9c2640485c7d450ce1fe24d76e687abcb68e9f83",
-  "notes": "Crossing lines hop over each other like in electrical drawings, router keeps lines off each other"
+  "installerUrl": "https://raw.githubusercontent.com/akshsim1991/PneuSim-releases/main/releases/PneuSim-Setup-3.3.16.exe",
+  "sha256": "80f7471e91d94cdf9995c98ec87df2165da3909a8168ad00b8c44111ca45454a",
+  "notes": "Lines routed together so they stay off each other and off components, rigid group rotation, components never overlap"
 }
